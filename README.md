@@ -1,4 +1,7 @@
-# api documentation for  [supererror (v0.7.1)](https://github.com/nebulade/supererror)  [![npm package](https://img.shields.io/npm/v/npmdoc-supererror.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-supererror) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-supererror.svg)](https://travis-ci.org/npmdoc/node-npmdoc-supererror)
+# npmdoc-supererror
+
+#### api documentation for  [supererror (v0.7.1)](https://github.com/nebulade/supererror)  [![npm package](https://img.shields.io/npm/v/npmdoc-supererror.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-supererror) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-supererror.svg)](https://travis-ci.org/npmdoc/node-npmdoc-supererror)
+
 #### Colorful console.error replacement
 
 [![NPM](https://nodei.co/npm/supererror.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/supererror)
